@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nusantara_cerdas_707012400001.iml" filepath="$PROJECT_DIR$/nusantara_cerdas_707012400001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/nusantara_cerdas_707012400001_android.iml" filepath="$PROJECT_DIR$/android/nusantara_cerdas_707012400001_android.iml" />
+    </modules>
+  </component>
+</project>
